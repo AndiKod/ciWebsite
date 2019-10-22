@@ -1,4 +1,4 @@
-# codeigniterSandbox
+# ciWebsite
 
 This repo is the static version of the rendered HTML and CSS of the official codeigniter.com website. I made it as I noticed some needed CSS fixes, and cloning that repo will be a good canvas to test fixes or style concepts without messing around in the Chrome DevTools.
 
