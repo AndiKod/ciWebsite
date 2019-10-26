@@ -5,8 +5,8 @@
 
 ---
 
-This repo is the static version (copy/paste/addapt-the-links) of the rendered HTML and CSS from codeigniter.com website. I made it as I noticed some needed CSS fixes, and cloning that repo will be a good canvas to test fixes or style concepts without messing around in the Chrome DevTools. But if somebody want to "DevTools inside", it's here: [https://codeigniter-website.netlify.com](https://codeigniter-website.netlify.com).
+This repo is the static version {*here:* [https://codeigniter-website.netlify.com](https://codeigniter-website.netlify.com)} of the rendered HTML and CSS from codeigniter.com website. I just noticed some needed CSS fixes, and cloning that repo will be a good canvas to test fixes or WebDesign concepts.
 
-Anyway, i'll try some stuff out for the pleasure and push it back here on Github.
+Anyway, i'll try some stuff out for the pleasure and push it back on Netlify and here.
 
 -- Long live **CodeIgniter**! --
