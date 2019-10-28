@@ -5,7 +5,7 @@
 
 ---
 
-This repo is the static version {*here:* [https://codeigniter-website.netlify.com](https://codeigniter-website.netlify.com)} of the rendered HTML and CSS from codeigniter.com website. I just noticed some needed CSS fixes, and cloning that repo will be a good canvas to test fixes or WebDesign concepts.
+This repo is the static version {*here:* [https://codeigniter-website.netlify.com](https://codeigniter-website.netlify.com)} of the rendered HTML and CSS from codeigniter.com website. 
 
 Anyway, i'll try some stuff out and push it back on Netlify.
 
